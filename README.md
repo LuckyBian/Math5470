@@ -55,6 +55,16 @@ Math5470/ \
 Model download link: [🔗 [Link](https://drive.google.com/drive/folders/1RUk4qG1w7Y-ryRTMHEFQKKKPVNX20AR4?usp=sharing)]
 
 Ensure that the model file name and path match the configuration in your training or inference scripts.
+## 🔍Exploratory data analysis
+
+Explore the dataset patterns and insights using our interactive EDA notebook:
+
+```bash
+jupyter notebook EDA.ipynb
+```
+
+The analysis includes sales trends, seasonal patterns, and feature correlations to guide model development.
+
 
 ## 🚀 Training
 Run the training script to start model training:
