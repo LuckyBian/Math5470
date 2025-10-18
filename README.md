@@ -83,9 +83,9 @@ python eval.py
 
 | Name | Contribution |
 |------|---------------|
-| Weizhen Bian | Data preprocessing, feature engineering, and exploratory data analysis |
-| Yiming Li | Model design, hyperparameter tuning, and training pipeline implementation |
-| Pengyu Chen | Kaggle data handling, baseline model reproduction, and visualization |
-| Jiahao Pan | Forecast evaluation, metric analysis, and result interpretation |
-| Boyi Kang | Project coordination, report writing, and GitHub documentation setup |
+| Weizhen Bian |  |
+| Yiming Li |  |
+| Pengyu Chen |  |
+| Jiahao Pan |  |
+| Boyi Kang |  |
 
