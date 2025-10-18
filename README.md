@@ -79,6 +79,14 @@ Evaluate the model performance using the provided evaluation script:
 python eval.py
 ```
 
+## ⚡ Train Other Models
+We also provide the scripts for training and evaluating a xgboost model. You can follow it and write your own method. Feel free to try it! 
+```bash
+python train_xgboost.py
+python infer_xgboost.py
+```
+
+
 ## 👥 Contribution
 
 | Name | Contribution |
