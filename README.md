@@ -91,7 +91,7 @@ python infer_xgboost.py
 
 | Name | Contribution |
 |------|---------------|
-| Weizhen Bian |  |
+| Weizhen Bian | Performed initial data cleaning and feature extraction; implemented the main model, including training, inference, and evaluation; and contributed to writing and editing the final report. |
 | Yiming Li |  |
 | Pengyu Chen |  |
 | Jiahao Pan |  |
