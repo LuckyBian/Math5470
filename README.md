@@ -92,8 +92,8 @@ python infer_xgboost.py
 | Name | Contribution |
 |------|---------------|
 | Weizhen Bian | Performed initial data cleaning and feature extraction; implemented the main model, including training, inference, and evaluation; and contributed to writing and editing the final report. |
-| Yiming Li |  |
-| Pengyu Chen |  |
+| Yiming Li | Conducted exploratory data analysis to identify sales patterns with key visualizations; implemented other models for comparison; aided in ablation study; and contributed to writing and editing the final report|
+| Pengyu Chen | Conducted exploratory data analysis to identify sales patterns with key visualizations; supported data preprocessing, contributed to modeling via feature engineering, and aided in drafting the EDA section. |
 | Jiahao Pan |  |
 | Boyi Kang |  |
 
